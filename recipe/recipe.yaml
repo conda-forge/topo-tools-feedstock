@@ -49,9 +49,9 @@ about:
   summary: DuckDB-powered geospatial topology utilities (edge-matching, topology cleaning, more)
   license: MIT
   license_file: LICENSE
-  homepage: https://github.com/OCHA-DAP/topo-tools-py
-  repository: https://github.com/OCHA-DAP/topo-tools-py
-  documentation: https://github.com/OCHA-DAP/topo-tools-py#readme
+  homepage: https://github.com/OCHA-DAP/topo-tools
+  repository: https://github.com/OCHA-DAP/topo-tools
+  documentation: https://ocha-dap.github.io/cod-site/tools/docs/
 
 extra:
   recipe-maintainers:
