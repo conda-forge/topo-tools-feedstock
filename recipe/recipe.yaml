@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.23.0"
+  version: "0.24.0"
 
 package:
   name: topo-tools
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/t/topo-tools/topo_tools-${{ version }}.tar.gz
-  sha256: f6fc91b1742375872be8d2a0a1479255d2311179442e34f22a13faf6d9fc71bc
+  sha256: 9998956d7a60fdd34c72d567a261c7e3f23cd29f27a5fc2292d5207a98a62a49
 
 build:
   number: 0
